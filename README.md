@@ -3,9 +3,12 @@ PolyPulsar AutoPlayer by @alexvdefi
 1. Download all files needed:
 ![image](https://user-images.githubusercontent.com/90290113/163059784-d5fdfe9c-981c-49be-b19d-0cf7c7c19371.png)
 
-2. Use auto_play shortcut to start program.
+2. Use auto_play.exe inside "...\PolyPulsar-Autoplayer-main\auto_play" folder to start:
+![image](https://user-images.githubusercontent.com/90290113/163060468-24452df5-5500-4335-a9df-2903daef99a4.png)
 
 Source code in auto_play.py
+
+Session stats inside "...\PolyPulsar-Autoplayer-main\auto_play\sessions" folder
 
 Requires private key (NOT seed phrase) to the wallet that you want to use for playing.
 https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
