@@ -1,0 +1,32 @@
+[
+  {
+    "MISSION_1": [
+      {
+        "LVL_REQ": 1,
+        "PRICE": 500,
+        "IDs": [1,5,9]
+      }
+    ],
+    "MISSION_2": [
+      {
+        "LVL_REQ": 26,
+        "PRICE": 1000,
+        "IDs": [2,6,10]
+      }
+    ],
+    "MISSION_3": [
+      {
+        "LVL_REQ": 51,
+        "PRICE": 1500,
+        "IDs": [3,7,11]
+      }
+    ],
+    "MISSION_4": [
+      {
+        "LVL_REQ": 76,
+        "PRICE": 2000,
+        "IDs": [4,8,12]
+      }
+    ]
+  }
+]
